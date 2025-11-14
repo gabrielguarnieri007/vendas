@@ -1,0 +1,14 @@
+# Ignorar arquivos do Maven
+/target/
+
+# Ignorar arquivos do VS Code
+.vscode/
+
+# Ignorar outros arquivos de IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.classpath
+.project

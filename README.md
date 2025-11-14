@@ -4,9 +4,11 @@ Este projeto é um pequeno sistema de vendas implementado em Java, como parte da
 
 O objetivo principal foi praticar os conceitos de Programação Orientada a Objetos e Desenvolvimento Guiado por Testes (TDD) com JUnit 5.
 
-## 👨‍💻 Aluno
+## 👨‍💻 Integrantes
 
-* Nome: Gabriel Guarnieri Fraga e Sousa
+* **Nome:** Gabriel Guarnieri Fraga e Sousa
+* **Nome:** João Inácio Rodrigues Torres de Souza
+* **Nome:** Guilherme Augusto de Morais Araújo
 
 ## ✅ Como Testar o Projeto
 
